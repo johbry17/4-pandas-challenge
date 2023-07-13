@@ -18,7 +18,7 @@ Simply restart the kernel and run everything from the beginning.
 
 Results:
 
-![District Summary](Images/0 District Summary.png)
+![District Summary](Images/0%20District%20Summary.png)
 
 ## Acknowledgments
 
