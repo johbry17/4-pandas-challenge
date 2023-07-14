@@ -1,5 +1,3 @@
-## Under Construction
-
 ## Module 4 Challenge, 13 July 2023, Pandas Challenge
 
 Development on this project has stopped
