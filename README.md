@@ -12,7 +12,7 @@ A written analysis summarizes the results of this exploratory data analysis at t
 
 ## Usage
 
-You can view the results as is in the data file. If you want to run the code, restart the kernel and 'run all'. 
+You can view the results in the data file. If you want to run the code, restart the kernel and 'run all'. 
 
 ## Results:
 
