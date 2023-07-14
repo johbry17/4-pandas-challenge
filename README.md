@@ -14,7 +14,7 @@ A written analysis summarizes the results of this exploratory data analysis at t
 
 You can view the results in the PyCitySchools/PyCitySchools.ipynb. If you want to run the code, restart the kernel and 'run all'. 
 
-## Results:
+## Gallery of Some Results:
 
 District Summary:
 
